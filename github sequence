@@ -1,0 +1,5 @@
+add: git add ./folder/*
+
+commit: git commit -m "add folder"
+
+push: git push origin master
